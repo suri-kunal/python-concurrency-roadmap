@@ -1,7 +1,3 @@
-Here’s a README.md that doesn’t waste time or hide the pain. This sets the tone for anyone who lands on your repo—they’ll know you’re not just following tutorials, you’re building real, breakable, production-grade Python.
-
----
-
 # Dangerous Python Concurrency Roadmap
 
 **This repo is not a tutorial. It’s a war zone.**
