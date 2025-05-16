@@ -22,7 +22,7 @@ A project-first, failure-driven journey through Python iterators, generators, as
 ## How to Use
 
 1. Clone the repo.
-2. Follow the roadmap in [`roadmap.txt`](iterator_roadmap.txt).
+2. Follow the roadmap in [`roadmap.md`](roadmap.md).
 3. Run the code, break it, fix it, and document what you learned.
 4. Don’t skip the Dockerfile, the tests, or the postmortems.
 
@@ -30,11 +30,11 @@ A project-first, failure-driven journey through Python iterators, generators, as
 
 - Python 3.10+
 - [uv](https://github.com/astral-sh/uv) or your preferred environment manager
-- See `requirements.txt` or `pyproject.toml` for dependencies
+- See `pyproject.toml` for dependencies
 
 ## Roadmap
 
-See [`roadmap.txt`](roadmap.txt) for the full, brutal breakdown.
+See [`roadmap.md`](roadmap.md) for the full, brutal breakdown.
 
 ## License
 
