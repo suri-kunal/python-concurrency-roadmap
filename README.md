@@ -1,3 +1,5 @@
+# Archiving this repo. I got lazy and didn't post my code here
+
 # Dangerous Python Concurrency Roadmap
 
 **This repo is not a tutorial. It’s a war zone.**
